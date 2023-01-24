@@ -1,0 +1,24 @@
+{
+  "name": "soliditysecurity",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhishekkochar/soliditySecurity.git"
+  },
+  "author": "Abhishek kochar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhishekkochar/soliditySecurity/issues"
+  },
+  "homepage": "https://github.com/Abhishekkochar/soliditySecurity#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-foundry": "^1.0.0",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "hardhat": "^2.12.6"
+  }
+}
